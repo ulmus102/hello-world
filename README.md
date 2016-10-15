@@ -1,2 +1,3 @@
 # hello-world
 nauka obsługi git huba
+zobaczymy co z tego wyjdzie, bo czuję, że mózg mam zamulony...
